@@ -24,6 +24,8 @@ A library for building oData (Open Data Protocol) v4 compliant RESTful APIs with
 - [ ] Relationship operators
 - [ ] Singleton Requests
 - [ ] Contained Entities
+- [ ] Automatic validation
+- [ ] Simplify error code handling based on error context
 
 #### Intermediate 
 - [ ] Add functionality for creating new Edm types
